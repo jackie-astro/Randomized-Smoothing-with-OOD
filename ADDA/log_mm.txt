@@ -1,0 +1,143 @@
+2020-12-11 03:25:29,464 - Namespace(batch_size=128, device='cuda:0', epochs=50, in_channels=3, logdir='outputs/garbage_m2mm', lr=0.001, message='', mode='m2mm', n_classes=10, n_workers=0, slope=0.2, trained='', weight_decay=2.5e-05)
+2020-12-11 03:25:39,690 - Epoch 1/50 | Train/Loss 0.363 Acc 0.908 | Val/Loss 0.050 Acc 0.985 Time 5.92s
+2020-12-11 03:25:45,475 - Epoch 2/50 | Train/Loss 0.111 Acc 0.967 | Val/Loss 0.038 Acc 0.987 Time 5.78s
+2020-12-11 03:25:51,855 - Epoch 3/50 | Train/Loss 0.089 Acc 0.973 | Val/Loss 0.031 Acc 0.990 Time 6.37s
+2020-12-11 03:25:58,666 - Epoch 4/50 | Train/Loss 0.076 Acc 0.977 | Val/Loss 0.029 Acc 0.990 Time 6.80s
+2020-12-11 03:26:05,163 - Epoch 5/50 | Train/Loss 0.071 Acc 0.979 | Val/Loss 0.027 Acc 0.991 Time 6.48s
+2020-12-11 03:26:11,732 - Epoch 6/50 | Train/Loss 0.064 Acc 0.981 | Val/Loss 0.025 Acc 0.991 Time 6.56s
+2020-12-11 03:26:18,364 - Epoch 7/50 | Train/Loss 0.059 Acc 0.982 | Val/Loss 0.024 Acc 0.993 Time 6.62s
+2020-12-11 03:26:25,058 - Epoch 8/50 | Train/Loss 0.054 Acc 0.984 | Val/Loss 0.024 Acc 0.992 Time 6.68s
+2020-12-11 03:26:32,216 - Epoch 9/50 | Train/Loss 0.053 Acc 0.984 | Val/Loss 0.021 Acc 0.993 Time 7.15s
+2020-12-11 03:26:38,849 - Epoch 10/50 | Train/Loss 0.051 Acc 0.984 | Val/Loss 0.022 Acc 0.993 Time 6.62s
+2020-12-11 03:26:45,538 - Epoch 11/50 | Train/Loss 0.049 Acc 0.985 | Val/Loss 0.020 Acc 0.994 Time 6.68s
+2020-12-11 03:26:52,619 - Epoch 12/50 | Train/Loss 0.046 Acc 0.986 | Val/Loss 0.021 Acc 0.993 Time 7.07s
+2020-12-11 03:26:59,163 - Epoch 13/50 | Train/Loss 0.044 Acc 0.986 | Val/Loss 0.020 Acc 0.994 Time 6.53s
+2020-12-11 03:27:06,065 - Epoch 14/50 | Train/Loss 0.043 Acc 0.986 | Val/Loss 0.020 Acc 0.994 Time 6.89s
+2020-12-11 03:27:13,197 - Epoch 15/50 | Train/Loss 0.040 Acc 0.987 | Val/Loss 0.018 Acc 0.995 Time 7.12s
+2020-12-11 03:27:19,981 - Epoch 16/50 | Train/Loss 0.039 Acc 0.988 | Val/Loss 0.019 Acc 0.994 Time 6.77s
+2020-12-11 03:27:27,077 - Epoch 17/50 | Train/Loss 0.037 Acc 0.988 | Val/Loss 0.020 Acc 0.994 Time 7.09s
+2020-12-11 03:27:33,935 - Epoch 18/50 | Train/Loss 0.036 Acc 0.989 | Val/Loss 0.018 Acc 0.994 Time 6.85s
+2020-12-11 03:27:40,752 - Epoch 19/50 | Train/Loss 0.035 Acc 0.989 | Val/Loss 0.020 Acc 0.994 Time 6.81s
+2020-12-11 03:27:47,835 - Epoch 20/50 | Train/Loss 0.036 Acc 0.988 | Val/Loss 0.019 Acc 0.994 Time 7.06s
+2020-12-11 03:27:54,318 - Epoch 21/50 | Train/Loss 0.036 Acc 0.988 | Val/Loss 0.020 Acc 0.994 Time 6.48s
+2020-12-11 03:28:01,142 - Epoch 22/50 | Train/Loss 0.033 Acc 0.990 | Val/Loss 0.019 Acc 0.994 Time 6.82s
+2020-12-11 03:28:08,177 - Epoch 23/50 | Train/Loss 0.034 Acc 0.990 | Val/Loss 0.019 Acc 0.994 Time 7.03s
+2020-12-11 03:28:14,690 - Epoch 24/50 | Train/Loss 0.033 Acc 0.990 | Val/Loss 0.021 Acc 0.994 Time 6.51s
+2020-12-11 03:28:21,787 - Epoch 25/50 | Train/Loss 0.032 Acc 0.990 | Val/Loss 0.020 Acc 0.994 Time 7.09s
+2020-12-11 03:28:28,637 - Epoch 26/50 | Train/Loss 0.031 Acc 0.990 | Val/Loss 0.020 Acc 0.994 Time 6.84s
+2020-12-11 03:28:35,463 - Epoch 27/50 | Train/Loss 0.031 Acc 0.991 | Val/Loss 0.019 Acc 0.995 Time 6.82s
+2020-12-11 03:28:42,803 - Epoch 28/50 | Train/Loss 0.030 Acc 0.991 | Val/Loss 0.020 Acc 0.994 Time 7.33s
+2020-12-11 03:28:49,411 - Epoch 29/50 | Train/Loss 0.030 Acc 0.991 | Val/Loss 0.020 Acc 0.994 Time 6.60s
+2020-12-11 03:28:56,267 - Epoch 30/50 | Train/Loss 0.028 Acc 0.991 | Val/Loss 0.020 Acc 0.994 Time 6.85s
+2020-12-11 03:29:03,232 - Epoch 31/50 | Train/Loss 0.028 Acc 0.990 | Val/Loss 0.019 Acc 0.994 Time 6.96s
+2020-12-11 03:29:10,016 - Epoch 32/50 | Train/Loss 0.028 Acc 0.991 | Val/Loss 0.019 Acc 0.994 Time 6.78s
+2020-12-11 03:29:17,002 - Epoch 33/50 | Train/Loss 0.027 Acc 0.991 | Val/Loss 0.020 Acc 0.994 Time 6.98s
+2020-12-11 03:29:23,571 - Epoch 34/50 | Train/Loss 0.025 Acc 0.992 | Val/Loss 0.017 Acc 0.995 Time 6.56s
+2020-12-11 03:29:30,227 - Epoch 35/50 | Train/Loss 0.026 Acc 0.992 | Val/Loss 0.021 Acc 0.994 Time 6.65s
+2020-12-11 03:29:37,281 - Epoch 36/50 | Train/Loss 0.026 Acc 0.991 | Val/Loss 0.020 Acc 0.994 Time 7.05s
+2020-12-11 03:29:43,878 - Epoch 37/50 | Train/Loss 0.025 Acc 0.993 | Val/Loss 0.021 Acc 0.994 Time 6.59s
+2020-12-11 03:29:50,620 - Epoch 38/50 | Train/Loss 0.025 Acc 0.992 | Val/Loss 0.022 Acc 0.993 Time 6.74s
+2020-12-11 03:29:57,830 - Epoch 39/50 | Train/Loss 0.025 Acc 0.992 | Val/Loss 0.021 Acc 0.994 Time 7.20s
+2020-12-11 03:30:04,554 - Epoch 40/50 | Train/Loss 0.026 Acc 0.992 | Val/Loss 0.021 Acc 0.994 Time 6.72s
+2020-12-11 03:30:11,244 - Epoch 41/50 | Train/Loss 0.024 Acc 0.992 | Val/Loss 0.020 Acc 0.994 Time 6.68s
+2020-12-11 03:30:18,232 - Epoch 42/50 | Train/Loss 0.024 Acc 0.992 | Val/Loss 0.021 Acc 0.995 Time 6.98s
+2020-12-11 03:30:24,796 - Epoch 43/50 | Train/Loss 0.023 Acc 0.993 | Val/Loss 0.021 Acc 0.994 Time 6.56s
+2020-12-11 03:30:31,556 - Epoch 44/50 | Train/Loss 0.024 Acc 0.992 | Val/Loss 0.022 Acc 0.994 Time 6.75s
+2020-12-11 03:30:38,247 - Epoch 45/50 | Train/Loss 0.022 Acc 0.993 | Val/Loss 0.022 Acc 0.994 Time 6.68s
+2020-12-11 03:30:44,634 - Epoch 46/50 | Train/Loss 0.022 Acc 0.992 | Val/Loss 0.022 Acc 0.993 Time 6.38s
+2020-12-11 03:30:51,545 - Epoch 47/50 | Train/Loss 0.023 Acc 0.993 | Val/Loss 0.021 Acc 0.994 Time 6.90s
+2020-12-11 03:30:58,170 - Epoch 48/50 | Train/Loss 0.023 Acc 0.993 | Val/Loss 0.019 Acc 0.994 Time 6.62s
+2020-12-11 03:31:04,779 - Epoch 49/50 | Train/Loss 0.023 Acc 0.993 | Val/Loss 0.020 Acc 0.994 Time 6.60s
+2020-12-11 03:31:10,891 - Epoch 50/50 | Train/Loss 0.021 Acc 0.993 | Val/Loss 0.020 Acc 0.993 Time 6.11s
+
+Process finished with exit code 0
+
+2020-12-11 06:33:43,025 - Namespace(batch_size=128, device='cuda:0', epochs=100, in_channels=3, logdir='outputs/garbage1_m2mm', lr=0.001, message='', mode='m2mm', n_classes=10, n_workers=0, slope=0.1, trained='outputs/garbage_m2mm/best_model.pt')
+load model
+2020-12-11 06:33:46,910 - Loaded `outputs/garbage_m2mm/best_model.pt`
+2020-12-11 06:34:03,481 - Epoch 1/100 D/Loss 0.266 Target/Loss 2.075 [Val] Target/Loss 1.322 Target/Acc 0.642 Source/Acc 0.308 [Train] Target/Loss 1.322 Target/Acc 0.646 Time 15.54s
+2020-12-11 06:34:18,882 - Epoch 2/100 D/Loss 0.095 Target/Loss 3.727 [Val] Target/Loss 1.165 Target/Acc 0.683 Source/Acc 0.308 [Train] Target/Loss 1.167 Target/Acc 0.680 Time 15.39s
+2020-12-11 06:34:34,486 - Epoch 3/100 D/Loss 0.049 Target/Loss 4.912 [Val] Target/Loss 0.959 Target/Acc 0.738 Source/Acc 0.308 [Train] Target/Loss 0.961 Target/Acc 0.735 Time 15.60s
+2020-12-11 06:34:49,928 - Epoch 4/100 D/Loss 0.031 Target/Loss 5.855 [Val] Target/Loss 0.823 Target/Acc 0.777 Source/Acc 0.308 [Train] Target/Loss 0.826 Target/Acc 0.771 Time 15.43s
+2020-12-11 06:35:05,810 - Epoch 5/100 D/Loss 0.025 Target/Loss 6.604 [Val] Target/Loss 0.772 Target/Acc 0.783 Source/Acc 0.308 [Train] Target/Loss 0.773 Target/Acc 0.780 Time 15.88s
+2020-12-11 06:35:21,861 - Epoch 6/100 D/Loss 0.018 Target/Loss 7.275 [Val] Target/Loss 0.719 Target/Acc 0.792 Source/Acc 0.308 [Train] Target/Loss 0.717 Target/Acc 0.790 Time 16.04s
+2020-12-11 06:35:37,573 - Epoch 7/100 D/Loss 0.015 Target/Loss 7.877 [Val] Target/Loss 0.662 Target/Acc 0.807 Source/Acc 0.308 [Train] Target/Loss 0.665 Target/Acc 0.802 Time 15.70s
+2020-12-11 06:35:53,374 - Epoch 8/100 D/Loss 0.015 Target/Loss 8.322 [Val] Target/Loss 0.689 Target/Acc 0.796 Source/Acc 0.308 [Train] Target/Loss 0.692 Target/Acc 0.791 Time 15.79s
+2020-12-11 06:36:09,639 - Epoch 9/100 D/Loss 0.013 Target/Loss 8.942 [Val] Target/Loss 0.626 Target/Acc 0.809 Source/Acc 0.308 [Train] Target/Loss 0.627 Target/Acc 0.808 Time 16.26s
+2020-12-11 06:36:25,362 - Epoch 10/100 D/Loss 0.010 Target/Loss 9.373 [Val] Target/Loss 0.736 Target/Acc 0.783 Source/Acc 0.308 [Train] Target/Loss 0.736 Target/Acc 0.778 Time 15.72s
+2020-12-11 06:36:41,143 - Epoch 11/100 D/Loss 0.011 Target/Loss 9.723 [Val] Target/Loss 0.753 Target/Acc 0.787 Source/Acc 0.308 [Train] Target/Loss 0.758 Target/Acc 0.781 Time 15.77s
+2020-12-11 06:36:56,713 - Epoch 12/100 D/Loss 0.009 Target/Loss 10.233 [Val] Target/Loss 0.748 Target/Acc 0.792 Source/Acc 0.308 [Train] Target/Loss 0.750 Target/Acc 0.790 Time 15.56s
+2020-12-11 06:37:11,876 - Epoch 13/100 D/Loss 0.009 Target/Loss 10.604 [Val] Target/Loss 0.721 Target/Acc 0.789 Source/Acc 0.308 [Train] Target/Loss 0.720 Target/Acc 0.787 Time 15.16s
+2020-12-11 06:37:26,878 - Epoch 14/100 D/Loss 0.008 Target/Loss 11.011 [Val] Target/Loss 0.667 Target/Acc 0.799 Source/Acc 0.308 [Train] Target/Loss 0.673 Target/Acc 0.795 Time 14.99s
+2020-12-11 06:37:41,488 - Epoch 15/100 D/Loss 0.006 Target/Loss 11.309 [Val] Target/Loss 0.621 Target/Acc 0.809 Source/Acc 0.308 [Train] Target/Loss 0.633 Target/Acc 0.804 Time 14.60s
+2020-12-11 06:37:56,577 - Epoch 16/100 D/Loss 0.008 Target/Loss 11.507 [Val] Target/Loss 0.650 Target/Acc 0.804 Source/Acc 0.308 [Train] Target/Loss 0.655 Target/Acc 0.799 Time 15.08s
+2020-12-11 06:38:11,533 - Epoch 17/100 D/Loss 0.007 Target/Loss 11.923 [Val] Target/Loss 0.619 Target/Acc 0.809 Source/Acc 0.308 [Train] Target/Loss 0.619 Target/Acc 0.807 Time 14.95s
+2020-12-11 06:38:26,481 - Epoch 18/100 D/Loss 0.007 Target/Loss 12.226 [Val] Target/Loss 0.645 Target/Acc 0.801 Source/Acc 0.308 [Train] Target/Loss 0.651 Target/Acc 0.801 Time 14.94s
+2020-12-11 06:38:41,308 - Epoch 19/100 D/Loss 0.007 Target/Loss 12.392 [Val] Target/Loss 0.639 Target/Acc 0.805 Source/Acc 0.308 [Train] Target/Loss 0.638 Target/Acc 0.804 Time 14.82s
+2020-12-11 06:38:56,374 - Epoch 20/100 D/Loss 0.004 Target/Loss 12.890 [Val] Target/Loss 0.635 Target/Acc 0.807 Source/Acc 0.308 [Train] Target/Loss 0.635 Target/Acc 0.804 Time 15.06s
+2020-12-11 06:39:11,560 - Epoch 21/100 D/Loss 0.005 Target/Loss 12.912 [Val] Target/Loss 0.687 Target/Acc 0.794 Source/Acc 0.308 [Train] Target/Loss 0.682 Target/Acc 0.795 Time 15.18s
+2020-12-11 06:39:25,959 - Epoch 22/100 D/Loss 0.006 Target/Loss 13.309 [Val] Target/Loss 0.669 Target/Acc 0.797 Source/Acc 0.308 [Train] Target/Loss 0.669 Target/Acc 0.796 Time 14.39s
+2020-12-11 06:39:40,950 - Epoch 23/100 D/Loss 0.004 Target/Loss 13.313 [Val] Target/Loss 3.519 Target/Acc 0.235 Source/Acc 0.308 [Train] Target/Loss 3.538 Target/Acc 0.235 Time 14.99s
+2020-12-11 06:39:55,590 - Epoch 24/100 D/Loss 0.001 Target/Loss 13.369 [Val] Target/Loss 6.215 Target/Acc 0.114 Source/Acc 0.308 [Train] Target/Loss 6.188 Target/Acc 0.113 Time 14.63s
+2020-12-11 06:40:10,830 - Epoch 25/100 D/Loss 0.001 Target/Loss 13.977 [Val] Target/Loss 6.007 Target/Acc 0.120 Source/Acc 0.308 [Train] Target/Loss 5.969 Target/Acc 0.121 Time 15.24s
+2020-12-11 06:40:25,572 - Epoch 26/100 D/Loss 0.001 Target/Loss 14.104 [Val] Target/Loss 6.082 Target/Acc 0.117 Source/Acc 0.308 [Train] Target/Loss 6.063 Target/Acc 0.120 Time 14.74s
+2020-12-11 06:40:40,026 - Epoch 27/100 D/Loss 0.000 Target/Loss 13.131 [Val] Target/Loss 6.438 Target/Acc 0.114 Source/Acc 0.308 [Train] Target/Loss 6.417 Target/Acc 0.114 Time 14.45s
+2020-12-11 06:40:54,850 - Epoch 28/100 D/Loss 0.001 Target/Loss 12.187 [Val] Target/Loss 6.264 Target/Acc 0.111 Source/Acc 0.308 [Train] Target/Loss 6.239 Target/Acc 0.112 Time 14.82s
+2020-12-11 06:41:09,376 - Epoch 29/100 D/Loss 0.000 Target/Loss 13.426 [Val] Target/Loss 6.444 Target/Acc 0.114 Source/Acc 0.308 [Train] Target/Loss 6.436 Target/Acc 0.114 Time 14.52s
+2020-12-11 06:41:24,284 - Epoch 30/100 D/Loss 0.002 Target/Loss 14.479 [Val] Target/Loss 6.530 Target/Acc 0.114 Source/Acc 0.308 [Train] Target/Loss 6.526 Target/Acc 0.113 Time 14.90s
+2020-12-11 06:41:38,928 - Epoch 31/100 D/Loss 0.001 Target/Loss 14.389 [Val] Target/Loss 6.490 Target/Acc 0.110 Source/Acc 0.308 [Train] Target/Loss 6.489 Target/Acc 0.111 Time 14.64s
+2020-12-11 06:41:54,222 - Epoch 32/100 D/Loss 0.001 Target/Loss 15.585 [Val] Target/Loss 6.705 Target/Acc 0.114 Source/Acc 0.308 [Train] Target/Loss 6.676 Target/Acc 0.114 Time 15.29s
+2020-12-11 06:42:09,101 - Epoch 33/100 D/Loss 0.001 Target/Loss 15.081 [Val] Target/Loss 6.091 Target/Acc 0.107 Source/Acc 0.308 [Train] Target/Loss 6.067 Target/Acc 0.107 Time 14.87s
+2020-12-11 06:42:24,020 - Epoch 34/100 D/Loss 0.000 Target/Loss 15.045 [Val] Target/Loss 6.324 Target/Acc 0.115 Source/Acc 0.308 [Train] Target/Loss 6.314 Target/Acc 0.115 Time 14.91s
+2020-12-11 06:42:40,313 - Epoch 35/100 D/Loss 0.002 Target/Loss 14.793 [Val] Target/Loss 6.228 Target/Acc 0.115 Source/Acc 0.308 [Train] Target/Loss 6.213 Target/Acc 0.115 Time 16.29s
+2020-12-11 06:42:57,132 - Epoch 36/100 D/Loss 0.001 Target/Loss 15.893 [Val] Target/Loss 6.149 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.136 Target/Acc 0.113 Time 16.81s
+2020-12-11 06:43:12,973 - Epoch 37/100 D/Loss 0.001 Target/Loss 15.389 [Val] Target/Loss 6.189 Target/Acc 0.114 Source/Acc 0.308 [Train] Target/Loss 6.173 Target/Acc 0.114 Time 15.83s
+2020-12-11 06:43:28,687 - Epoch 38/100 D/Loss 0.002 Target/Loss 15.596 [Val] Target/Loss 6.155 Target/Acc 0.115 Source/Acc 0.308 [Train] Target/Loss 6.153 Target/Acc 0.115 Time 15.71s
+2020-12-11 06:43:44,906 - Epoch 39/100 D/Loss 0.001 Target/Loss 14.833 [Val] Target/Loss 6.511 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.483 Target/Acc 0.111 Time 16.21s
+2020-12-11 06:44:00,864 - Epoch 40/100 D/Loss 0.000 Target/Loss 14.824 [Val] Target/Loss 6.535 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.518 Target/Acc 0.113 Time 15.95s
+2020-12-11 06:44:17,080 - Epoch 41/100 D/Loss 0.000 Target/Loss 12.391 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 16.21s
+2020-12-11 06:44:33,087 - Epoch 42/100 D/Loss 0.000 Target/Loss 11.333 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 16.00s
+2020-12-11 06:44:48,696 - Epoch 43/100 D/Loss 0.000 Target/Loss 11.091 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 15.60s
+2020-12-11 06:45:04,945 - Epoch 44/100 D/Loss 0.000 Target/Loss 11.194 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 16.24s
+2020-12-11 06:45:21,141 - Epoch 45/100 D/Loss 0.000 Target/Loss 11.381 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 16.19s
+2020-12-11 06:45:36,943 - Epoch 46/100 D/Loss 0.000 Target/Loss 11.583 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 15.79s
+2020-12-11 06:45:52,954 - Epoch 47/100 D/Loss 0.000 Target/Loss 11.761 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 16.00s
+2020-12-11 06:46:08,668 - Epoch 48/100 D/Loss 0.000 Target/Loss 11.984 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 15.71s
+2020-12-11 06:46:24,540 - Epoch 49/100 D/Loss 0.000 Target/Loss 12.195 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 15.87s
+2020-12-11 06:46:40,494 - Epoch 50/100 D/Loss 0.000 Target/Loss 12.321 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 15.95s
+2020-12-11 06:46:56,307 - Epoch 51/100 D/Loss 0.000 Target/Loss 12.520 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 15.81s
+2020-12-11 06:47:12,669 - Epoch 52/100 D/Loss 0.000 Target/Loss 12.719 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 16.36s
+2020-12-11 06:47:28,971 - Epoch 53/100 D/Loss 0.000 Target/Loss 12.919 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 16.30s
+2020-12-11 06:47:45,145 - Epoch 54/100 D/Loss 0.000 Target/Loss 13.068 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 16.17s
+2020-12-11 06:48:01,238 - Epoch 55/100 D/Loss 0.000 Target/Loss 13.311 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 16.09s
+2020-12-11 06:48:17,243 - Epoch 56/100 D/Loss 0.000 Target/Loss 13.554 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 16.00s
+2020-12-11 06:48:31,791 - Epoch 57/100 D/Loss 0.000 Target/Loss 13.804 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.54s
+2020-12-11 06:48:46,089 - Epoch 58/100 D/Loss 0.000 Target/Loss 14.029 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.29s
+2020-12-11 06:49:00,892 - Epoch 59/100 D/Loss 0.000 Target/Loss 14.211 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.80s
+2020-12-11 06:49:15,462 - Epoch 60/100 D/Loss 0.000 Target/Loss 14.415 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.56s
+2020-12-11 06:49:29,983 - Epoch 61/100 D/Loss 0.000 Target/Loss 14.561 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.52s
+2020-12-11 06:49:44,836 - Epoch 62/100 D/Loss 0.000 Target/Loss 14.681 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.85s
+2020-12-11 06:49:59,356 - Epoch 63/100 D/Loss 0.000 Target/Loss 14.928 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.51s
+2020-12-11 06:50:14,312 - Epoch 64/100 D/Loss 0.000 Target/Loss 15.179 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.95s
+2020-12-11 06:50:28,995 - Epoch 65/100 D/Loss 0.000 Target/Loss 15.496 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.68s
+2020-12-11 06:50:43,526 - Epoch 66/100 D/Loss 0.000 Target/Loss 15.728 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.53s
+2020-12-11 06:50:58,079 - Epoch 67/100 D/Loss 0.000 Target/Loss 15.921 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.55s
+2020-12-11 06:51:12,778 - Epoch 68/100 D/Loss 0.000 Target/Loss 15.983 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.69s
+2020-12-11 06:51:27,204 - Epoch 69/100 D/Loss 0.000 Target/Loss 16.224 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.42s
+2020-12-11 06:51:41,539 - Epoch 70/100 D/Loss 0.000 Target/Loss 16.565 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.33s
+2020-12-11 06:51:56,330 - Epoch 71/100 D/Loss 0.000 Target/Loss 16.848 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.79s
+2020-12-11 06:52:10,849 - Epoch 72/100 D/Loss 0.000 Target/Loss 17.091 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.51s
+2020-12-11 06:52:25,335 - Epoch 73/100 D/Loss 0.000 Target/Loss 17.352 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.48s
+2020-12-11 06:52:39,891 - Epoch 74/100 D/Loss 0.000 Target/Loss 17.608 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.55s
+2020-12-11 06:52:54,537 - Epoch 75/100 D/Loss 0.000 Target/Loss 17.832 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.64s
+2020-12-11 06:53:09,196 - Epoch 76/100 D/Loss 0.000 Target/Loss 18.031 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.65s
+2020-12-11 06:53:23,607 - Epoch 77/100 D/Loss 0.000 Target/Loss 17.201 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.41s
+2020-12-11 06:53:38,099 - Epoch 78/100 D/Loss 0.000 Target/Loss 17.442 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.49s
+2020-12-11 06:53:52,438 - Epoch 79/100 D/Loss 0.000 Target/Loss 18.028 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.33s
+2020-12-11 06:54:07,067 - Epoch 80/100 D/Loss 0.000 Target/Loss 17.561 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.62s
+2020-12-11 06:54:21,349 - Epoch 81/100 D/Loss 0.000 Target/Loss 10.034 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.28s
+2020-12-11 06:54:35,725 - Epoch 82/100 D/Loss 0.000 Target/Loss 11.364 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.37s
+2020-12-11 06:54:50,184 - Epoch 83/100 D/Loss 0.000 Target/Loss 12.048 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.45s
+2020-12-11 06:55:04,972 - Epoch 84/100 D/Loss 0.000 Target/Loss 12.483 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.78s
+2020-12-11 06:55:19,178 - Epoch 85/100 D/Loss 0.000 Target/Loss 12.748 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.20s
+2020-12-11 06:55:33,811 - Epoch 86/100 D/Loss 0.000 Target/Loss 13.152 [Val] Target/Loss 6.578 Target/Acc 0.113 Source/Acc 0.308 [Train] Target/Loss 6.567 Target/Acc 0.113 Time 14.63s
