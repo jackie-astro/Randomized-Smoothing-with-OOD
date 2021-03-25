@@ -1,0 +1,606 @@
+model_su
+Using downloaded and verified file: ./data/svhn/train_32x32.mat
+ epoch: 0, [iter: 573 / all 573], loss: 0.973541
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.828980
+Accuracy of the usps dataset: 0.684946
+
+ epoch: 1, [iter: 573 / all 573], loss: 0.883184
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.864052
+Accuracy of the usps dataset: 0.702151
+
+ epoch: 2, [iter: 573 / all 573], loss: 0.423934
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.871696
+Accuracy of the usps dataset: 0.714516
+
+ epoch: 3, [iter: 573 / all 573], loss: 0.881879
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.880416
+Accuracy of the usps dataset: 0.716129
+
+ epoch: 4, [iter: 573 / all 573], loss: 0.570821
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.879302
+Accuracy of the usps dataset: 0.737097
+
+ epoch: 5, [iter: 573 / all 573], loss: 0.355220
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.890711
+Accuracy of the usps dataset: 0.692473
+
+ epoch: 6, [iter: 573 / all 573], loss: 0.527766
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.891749
+Accuracy of the usps dataset: 0.751075
+
+ epoch: 7, [iter: 573 / all 573], loss: 0.376427
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.893362
+Accuracy of the usps dataset: 0.737634
+
+ epoch: 8, [iter: 573 / all 573], loss: 0.765187
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.899854
+Accuracy of the usps dataset: 0.753763
+
+ epoch: 9, [iter: 573 / all 573], loss: 0.850003
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.895552
+Accuracy of the usps dataset: 0.709140
+
+ epoch: 10, [iter: 573 / all 573], loss: 0.632155
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.906884
+Accuracy of the usps dataset: 0.761290
+
+ epoch: 11, [iter: 573 / all 573], loss: 0.216200
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.906922
+Accuracy of the usps dataset: 0.758065
+
+ epoch: 12, [iter: 573 / all 573], loss: 0.205864
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.905347
+Accuracy of the usps dataset: 0.751075
+
+ epoch: 13, [iter: 573 / all 573], loss: 0.465133
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.908113
+Accuracy of the usps dataset: 0.754839
+
+ epoch: 14, [iter: 573 / all 573], loss: 0.510587
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.916641
+Accuracy of the usps dataset: 0.751613
+
+ epoch: 15, [iter: 573 / all 573], loss: 0.618282
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.911378
+Accuracy of the usps dataset: 0.768817
+
+ epoch: 16, [iter: 573 / all 573], loss: 0.477651
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.913337
+Accuracy of the usps dataset: 0.756452
+
+ epoch: 17, [iter: 573 / all 573], loss: 0.291439
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.912569
+Accuracy of the usps dataset: 0.769355
+
+ epoch: 18, [iter: 573 / all 573], loss: 0.288920
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.913376
+Accuracy of the usps dataset: 0.750538
+
+ epoch: 19, [iter: 573 / all 573], loss: 0.648797
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.914951
+Accuracy of the usps dataset: 0.773118
+
+ epoch: 20, [iter: 573 / all 573], loss: 0.312602
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.915143
+Accuracy of the usps dataset: 0.759677
+
+ epoch: 21, [iter: 573 / all 573], loss: 0.582887
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.916487
+Accuracy of the usps dataset: 0.772581
+
+ epoch: 22, [iter: 573 / all 573], loss: 0.762532
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.918293
+Accuracy of the usps dataset: 0.768817
+
+ epoch: 23, [iter: 573 / all 573], loss: 0.308367
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.921750
+Accuracy of the usps dataset: 0.746774
+
+ epoch: 24, [iter: 573 / all 573], loss: 0.259541
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.916872
+Accuracy of the usps dataset: 0.751075
+
+ epoch: 25, [iter: 573 / all 573], loss: 0.241889
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.917755
+Accuracy of the usps dataset: 0.752688
+
+ epoch: 26, [iter: 573 / all 573], loss: 0.186447
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.919100
+Accuracy of the usps dataset: 0.783333
+
+ epoch: 27, [iter: 573 / all 573], loss: 0.549770
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.919330
+Accuracy of the usps dataset: 0.746774
+
+ epoch: 28, [iter: 573 / all 573], loss: 0.343753
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.918831
+Accuracy of the usps dataset: 0.772581
+
+ epoch: 29, [iter: 573 / all 573], loss: 0.187865
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.918216
+Accuracy of the usps dataset: 0.741935
+
+ epoch: 30, [iter: 573 / all 573], loss: 0.494976
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.920598
+Accuracy of the usps dataset: 0.774731
+
+ epoch: 31, [iter: 573 / all 573], loss: 0.230816
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.923440
+Accuracy of the usps dataset: 0.769892
+
+ epoch: 32, [iter: 573 / all 573], loss: 0.524783
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.921328
+Accuracy of the usps dataset: 0.770968
+
+ epoch: 33, [iter: 573 / all 573], loss: 0.294689
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.921520
+Accuracy of the usps dataset: 0.775269
+
+ epoch: 34, [iter: 573 / all 573], loss: 0.146337
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.921289
+Accuracy of the usps dataset: 0.777957
+
+ epoch: 35, [iter: 573 / all 573], loss: 0.465679
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.923594
+Accuracy of the usps dataset: 0.763978
+
+ epoch: 36, [iter: 573 / all 573], loss: 0.625086
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.923671
+Accuracy of the usps dataset: 0.766667
+
+ epoch: 37, [iter: 573 / all 573], loss: 0.252067
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.922326
+Accuracy of the usps dataset: 0.779570
+
+ epoch: 38, [iter: 573 / all 573], loss: 0.213721
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.924017
+Accuracy of the usps dataset: 0.769892
+
+ epoch: 39, [iter: 573 / all 573], loss: 0.302642
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.923556
+Accuracy of the usps dataset: 0.775806
+
+ epoch: 40, [iter: 573 / all 573], loss: 0.377751
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.924631
+Accuracy of the usps dataset: 0.763978
+
+ epoch: 41, [iter: 573 / all 573], loss: 0.268902
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.925054
+Accuracy of the usps dataset: 0.760753
+
+ epoch: 42, [iter: 573 / all 573], loss: 0.261051
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.923632
+Accuracy of the usps dataset: 0.780108
+
+ epoch: 43, [iter: 573 / all 573], loss: 0.345986
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928204
+Accuracy of the usps dataset: 0.774194
+
+ epoch: 44, [iter: 573 / all 573], loss: 0.579768
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.927704
+Accuracy of the usps dataset: 0.761828
+
+ epoch: 45, [iter: 573 / all 573], loss: 0.442727
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.925515
+Accuracy of the usps dataset: 0.790323
+
+ epoch: 46, [iter: 573 / all 573], loss: 0.607165
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928511
+Accuracy of the usps dataset: 0.804839
+
+ epoch: 47, [iter: 573 / all 573], loss: 0.557653
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.927781
+Accuracy of the usps dataset: 0.788710
+
+ epoch: 48, [iter: 573 / all 573], loss: 0.411302
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.923940
+Accuracy of the usps dataset: 0.772043
+
+ epoch: 49, [iter: 573 / all 573], loss: 0.425080
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.925630
+Accuracy of the usps dataset: 0.782796
+
+ epoch: 50, [iter: 573 / all 573], loss: 0.233628
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.929126
+Accuracy of the usps dataset: 0.758602
+
+ epoch: 51, [iter: 573 / all 573], loss: 0.273163
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928703
+Accuracy of the usps dataset: 0.795161
+
+ epoch: 52, [iter: 573 / all 573], loss: 0.306024
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928396
+Accuracy of the usps dataset: 0.776344
+
+ epoch: 53, [iter: 573 / all 573], loss: 0.180332
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.926129
+Accuracy of the usps dataset: 0.810753
+
+ epoch: 54, [iter: 573 / all 573], loss: 0.383313
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.925553
+Accuracy of the usps dataset: 0.767742
+
+ epoch: 55, [iter: 573 / all 573], loss: 0.537358
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.927167
+Accuracy of the usps dataset: 0.774731
+
+ epoch: 56, [iter: 573 / all 573], loss: 0.539077
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.926898
+Accuracy of the usps dataset: 0.762366
+
+ epoch: 57, [iter: 573 / all 573], loss: 0.560980
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.927628
+Accuracy of the usps dataset: 0.796237
+
+ epoch: 58, [iter: 573 / all 573], loss: 0.121115
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.927435
+Accuracy of the usps dataset: 0.780108
+
+ epoch: 59, [iter: 573 / all 573], loss: 0.423267
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928012
+Accuracy of the usps dataset: 0.802688
+
+ epoch: 60, [iter: 573 / all 573], loss: 0.252531
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.929203
+Accuracy of the usps dataset: 0.776882
+
+ epoch: 61, [iter: 573 / all 573], loss: 0.347819
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.930547
+Accuracy of the usps dataset: 0.794624
+
+ epoch: 62, [iter: 573 / all 573], loss: 0.166660
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928319
+Accuracy of the usps dataset: 0.775269
+
+ epoch: 63, [iter: 573 / all 573], loss: 0.254875
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.930739
+Accuracy of the usps dataset: 0.770968
+
+ epoch: 64, [iter: 573 / all 573], loss: 0.662711
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.929049
+Accuracy of the usps dataset: 0.775269
+
+ epoch: 65, [iter: 573 / all 573], loss: 0.090522
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.929548
+Accuracy of the usps dataset: 0.769355
+
+ epoch: 66, [iter: 573 / all 573], loss: 0.423721
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.929625
+Accuracy of the usps dataset: 0.782796
+
+ epoch: 67, [iter: 573 / all 573], loss: 0.325483
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.930124
+Accuracy of the usps dataset: 0.762366
+
+ epoch: 68, [iter: 573 / all 573], loss: 0.176192
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928204
+Accuracy of the usps dataset: 0.776344
+
+ epoch: 69, [iter: 573 / all 573], loss: 0.524923
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.927397
+Accuracy of the usps dataset: 0.771505
+
+ epoch: 70, [iter: 573 / all 573], loss: 0.275822
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.931699
+Accuracy of the usps dataset: 0.775269
+
+ epoch: 71, [iter: 573 / all 573], loss: 0.342911
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.930048
+Accuracy of the usps dataset: 0.796774
+
+ epoch: 72, [iter: 573 / all 573], loss: 0.515357
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.931354
+Accuracy of the usps dataset: 0.786022
+
+ epoch: 73, [iter: 573 / all 573], loss: 0.437468
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.929279
+Accuracy of the usps dataset: 0.783871
+
+ epoch: 74, [iter: 573 / all 573], loss: 0.406129
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928396
+Accuracy of the usps dataset: 0.762366
+
+ epoch: 75, [iter: 573 / all 573], loss: 0.388722
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.929087
+Accuracy of the usps dataset: 0.780108
+
+ epoch: 76, [iter: 573 / all 573], loss: 0.333730
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928204
+Accuracy of the usps dataset: 0.775269
+
+ epoch: 77, [iter: 573 / all 573], loss: 0.079262
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928473
+Accuracy of the usps dataset: 0.765054
+
+ epoch: 78, [iter: 573 / all 573], loss: 0.192436
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928857
+Accuracy of the usps dataset: 0.806989
+
+ epoch: 79, [iter: 573 / all 573], loss: 0.274931
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.929471
+Accuracy of the usps dataset: 0.776882
+
+ epoch: 80, [iter: 573 / all 573], loss: 0.332567
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.931046
+Accuracy of the usps dataset: 0.780108
+
+ epoch: 81, [iter: 573 / all 573], loss: 0.119931
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.930124
+Accuracy of the usps dataset: 0.765054
+
+ epoch: 82, [iter: 573 / all 573], loss: 0.158772
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.931853
+Accuracy of the usps dataset: 0.749462
+
+ epoch: 83, [iter: 573 / all 573], loss: 0.059889
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.930009
+Accuracy of the usps dataset: 0.782796
+
+ epoch: 84, [iter: 573 / all 573], loss: 0.515597
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.931162
+Accuracy of the usps dataset: 0.762903
+
+ epoch: 85, [iter: 573 / all 573], loss: 0.255795
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.930701
+Accuracy of the usps dataset: 0.772581
+
+ epoch: 86, [iter: 573 / all 573], loss: 0.684915
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.932160
+Accuracy of the usps dataset: 0.788172
+
+ epoch: 87, [iter: 573 / all 573], loss: 0.343374
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.931892
+Accuracy of the usps dataset: 0.790323
+
+ epoch: 88, [iter: 573 / all 573], loss: 0.214645
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.929587
+Accuracy of the usps dataset: 0.783871
+
+ epoch: 89, [iter: 573 / all 573], loss: 0.200662
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.932276
+Accuracy of the usps dataset: 0.776344
+
+ epoch: 90, [iter: 573 / all 573], loss: 0.136486
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.931776
+Accuracy of the usps dataset: 0.755376
+
+ epoch: 91, [iter: 573 / all 573], loss: 0.301804
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.931853
+Accuracy of the usps dataset: 0.773118
+
+ epoch: 92, [iter: 573 / all 573], loss: 0.216929
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.930163
+Accuracy of the usps dataset: 0.772043
+
+ epoch: 93, [iter: 573 / all 573], loss: 0.126612
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.932929
+Accuracy of the usps dataset: 0.782796
+
+ epoch: 94, [iter: 573 / all 573], loss: 0.199537
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.932429
+Accuracy of the usps dataset: 0.767204
+
+ epoch: 95, [iter: 573 / all 573], loss: 0.230928
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.928588
+Accuracy of the usps dataset: 0.783871
+
+ epoch: 96, [iter: 573 / all 573], loss: 0.219312
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.930470
+Accuracy of the usps dataset: 0.779570
+
+ epoch: 97, [iter: 573 / all 573], loss: 0.257597
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.931315
+Accuracy of the usps dataset: 0.763441
+
+ epoch: 98, [iter: 573 / all 573], loss: 0.247350
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.931238
+Accuracy of the usps dataset: 0.775269
+
+ epoch: 99, [iter: 573 / all 573], loss: 0.170602
+
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy of the svhn dataset: 0.930124
+Accuracy of the usps dataset: 0.743011
+
+============ Summary =============
+
+Accuracy of the mnist_m dataset: 0.810753
+Corresponding model was save in model_su/mnist_mnistm_model_epoch_best.pth

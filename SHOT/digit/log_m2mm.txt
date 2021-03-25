@@ -1,0 +1,422 @@
+ssh://cch@139.196.34.183:88/usr/local/bin/python3.7 -u /home/cch/share/xianyu/DANN/SHOT/digit/uda_digit.py
+Task: m2mm, Iter:4690/46900; Accuracy = 99.64%/ 99.39%
+
+Task: m2mm, Iter:9380/46900; Accuracy = 99.99%/ 99.47%
+
+Task: m2mm, Iter:14070/46900; Accuracy = 100.00%/ 99.58%
+
+Task: m2mm, Iter:18760/46900; Accuracy = 100.00%/ 99.59%
+
+Task: m2mm, Iter:23450/46900; Accuracy = 100.00%/ 99.48%
+
+Task: m2mm, Iter:28140/46900; Accuracy = 100.00%/ 99.50%
+
+Task: m2mm, Iter:32830/46900; Accuracy = 100.00%/ 99.52%
+
+Task: m2mm, Iter:37520/46900; Accuracy = 100.00%/ 99.55%
+
+Task: m2mm, Iter:42210/46900; Accuracy = 100.00%/ 99.60%
+
+Task: m2mm, Iter:46900/46900; Accuracy = 100.00%/ 99.54%
+
+Task: m2mm, Accuracy = 33.50%
+
+Accuracy = 39.01% -> 36.64%
+
+Task: m2mm, Iter:461/46100; Accuracy = 52.69%
+
+Accuracy = 52.27% -> 51.07%
+
+Task: m2mm, Iter:922/46100; Accuracy = 53.35%
+
+Accuracy = 52.86% -> 52.36%
+
+Task: m2mm, Iter:1383/46100; Accuracy = 54.87%
+
+Accuracy = 54.18% -> 53.71%
+
+Task: m2mm, Iter:1844/46100; Accuracy = 55.57%
+
+Accuracy = 54.88% -> 54.37%
+
+Task: m2mm, Iter:2305/46100; Accuracy = 56.28%
+
+Accuracy = 55.35% -> 54.94%
+
+Task: m2mm, Iter:2766/46100; Accuracy = 56.16%
+
+Accuracy = 55.17% -> 54.70%
+
+Task: m2mm, Iter:3227/46100; Accuracy = 56.06%
+
+Accuracy = 55.27% -> 54.77%
+
+Task: m2mm, Iter:3688/46100; Accuracy = 55.77%
+
+Accuracy = 54.83% -> 54.33%
+
+Task: m2mm, Iter:4149/46100; Accuracy = 55.00%
+
+Accuracy = 54.39% -> 53.87%
+
+Task: m2mm, Iter:4610/46100; Accuracy = 55.43%
+
+Accuracy = 54.64% -> 54.15%
+
+Task: m2mm, Iter:5071/46100; Accuracy = 55.75%
+
+Accuracy = 54.71% -> 54.22%
+
+Task: m2mm, Iter:5532/46100; Accuracy = 55.53%
+
+Accuracy = 54.78% -> 54.12%
+
+Task: m2mm, Iter:5993/46100; Accuracy = 55.47%
+
+Accuracy = 54.97% -> 54.21%
+
+Task: m2mm, Iter:6454/46100; Accuracy = 55.63%
+
+Accuracy = 54.61% -> 53.93%
+
+Task: m2mm, Iter:6915/46100; Accuracy = 54.86%
+
+Accuracy = 54.02% -> 53.29%
+
+Task: m2mm, Iter:7376/46100; Accuracy = 54.92%
+
+Accuracy = 54.09% -> 53.22%
+
+Task: m2mm, Iter:7837/46100; Accuracy = 54.93%
+
+Accuracy = 53.76% -> 52.94%
+
+Task: m2mm, Iter:8298/46100; Accuracy = 53.84%
+
+Accuracy = 53.15% -> 52.40%
+
+Task: m2mm, Iter:8759/46100; Accuracy = 54.36%
+
+Accuracy = 53.54% -> 52.78%
+
+Task: m2mm, Iter:9220/46100; Accuracy = 54.31%
+
+Accuracy = 53.47% -> 52.73%
+
+Task: m2mm, Iter:9681/46100; Accuracy = 53.81%
+
+Accuracy = 53.10% -> 52.34%
+
+Task: m2mm, Iter:10142/46100; Accuracy = 52.97%
+
+Accuracy = 52.48% -> 51.79%
+
+Task: m2mm, Iter:10603/46100; Accuracy = 53.27%
+
+Accuracy = 52.53% -> 51.84%
+
+Task: m2mm, Iter:11064/46100; Accuracy = 52.86%
+
+Accuracy = 52.27% -> 51.57%
+
+Task: m2mm, Iter:11525/46100; Accuracy = 52.49%
+
+Accuracy = 52.02% -> 51.31%
+
+Task: m2mm, Iter:11986/46100; Accuracy = 52.05%
+
+Accuracy = 51.66% -> 50.99%
+
+Task: m2mm, Iter:12447/46100; Accuracy = 51.78%
+
+Accuracy = 51.63% -> 50.88%
+
+Task: m2mm, Iter:12908/46100; Accuracy = 51.92%
+
+Accuracy = 51.61% -> 50.95%
+
+Task: m2mm, Iter:13369/46100; Accuracy = 51.24%
+
+Accuracy = 50.99% -> 50.26%
+
+Task: m2mm, Iter:13830/46100; Accuracy = 51.39%
+
+Accuracy = 50.93% -> 50.25%
+
+Task: m2mm, Iter:14291/46100; Accuracy = 51.43%
+
+Accuracy = 51.06% -> 50.31%
+
+Task: m2mm, Iter:14752/46100; Accuracy = 51.58%
+
+Accuracy = 51.04% -> 50.24%
+
+Task: m2mm, Iter:15213/46100; Accuracy = 51.41%
+
+Accuracy = 50.59% -> 49.81%
+
+Task: m2mm, Iter:15674/46100; Accuracy = 51.01%
+
+Accuracy = 50.37% -> 49.76%
+
+Task: m2mm, Iter:16135/46100; Accuracy = 50.82%
+
+Accuracy = 50.28% -> 49.61%
+
+Task: m2mm, Iter:16596/46100; Accuracy = 50.72%
+
+Accuracy = 50.17% -> 49.56%
+
+Task: m2mm, Iter:17057/46100; Accuracy = 50.28%
+
+Accuracy = 50.03% -> 49.36%
+
+Task: m2mm, Iter:17518/46100; Accuracy = 50.42%
+
+Accuracy = 50.11% -> 49.56%
+
+Task: m2mm, Iter:17979/46100; Accuracy = 50.54%
+
+Accuracy = 50.03% -> 49.44%
+
+Task: m2mm, Iter:18440/46100; Accuracy = 50.17%
+
+Accuracy = 49.80% -> 49.21%
+
+Task: m2mm, Iter:18901/46100; Accuracy = 49.92%
+
+Accuracy = 49.57% -> 49.00%
+
+Task: m2mm, Iter:19362/46100; Accuracy = 50.18%
+
+Accuracy = 49.73% -> 49.09%
+
+Task: m2mm, Iter:19823/46100; Accuracy = 50.28%
+
+Accuracy = 49.90% -> 49.26%
+
+Task: m2mm, Iter:20284/46100; Accuracy = 50.33%
+
+Accuracy = 49.84% -> 49.15%
+
+Task: m2mm, Iter:20745/46100; Accuracy = 50.11%
+
+Accuracy = 49.76% -> 49.18%
+
+Task: m2mm, Iter:21206/46100; Accuracy = 49.85%
+
+Accuracy = 49.62% -> 49.04%
+
+Task: m2mm, Iter:21667/46100; Accuracy = 49.84%
+
+Accuracy = 49.53% -> 48.93%
+
+Task: m2mm, Iter:22128/46100; Accuracy = 50.02%
+
+Accuracy = 49.58% -> 49.04%
+
+Task: m2mm, Iter:22589/46100; Accuracy = 49.95%
+
+Accuracy = 49.66% -> 49.09%
+
+Task: m2mm, Iter:23050/46100; Accuracy = 49.97%
+
+Accuracy = 49.50% -> 48.93%
+
+Task: m2mm, Iter:23511/46100; Accuracy = 49.98%
+
+Accuracy = 49.35% -> 48.87%
+
+Task: m2mm, Iter:23972/46100; Accuracy = 49.85%
+
+Accuracy = 49.33% -> 48.84%
+
+Task: m2mm, Iter:24433/46100; Accuracy = 49.75%
+
+Accuracy = 49.26% -> 48.70%
+
+Task: m2mm, Iter:24894/46100; Accuracy = 49.92%
+
+Accuracy = 49.35% -> 48.84%
+
+Task: m2mm, Iter:25355/46100; Accuracy = 49.77%
+
+Accuracy = 49.20% -> 48.58%
+
+Task: m2mm, Iter:25816/46100; Accuracy = 49.54%
+
+Accuracy = 49.13% -> 48.66%
+
+Task: m2mm, Iter:26277/46100; Accuracy = 49.14%
+
+Accuracy = 48.94% -> 48.47%
+
+Task: m2mm, Iter:26738/46100; Accuracy = 49.33%
+
+Accuracy = 48.96% -> 48.46%
+
+Task: m2mm, Iter:27199/46100; Accuracy = 49.69%
+
+Accuracy = 49.17% -> 48.70%
+
+Task: m2mm, Iter:27660/46100; Accuracy = 49.32%
+
+Accuracy = 48.91% -> 48.49%
+
+Task: m2mm, Iter:28121/46100; Accuracy = 49.29%
+
+Accuracy = 48.89% -> 48.45%
+
+Task: m2mm, Iter:28582/46100; Accuracy = 49.22%
+
+Accuracy = 48.74% -> 48.32%
+
+Task: m2mm, Iter:29043/46100; Accuracy = 49.12%
+
+Accuracy = 48.73% -> 48.25%
+
+Task: m2mm, Iter:29504/46100; Accuracy = 49.19%
+
+Accuracy = 48.75% -> 48.37%
+
+Task: m2mm, Iter:29965/46100; Accuracy = 49.37%
+
+Accuracy = 48.95% -> 48.56%
+
+Task: m2mm, Iter:30426/46100; Accuracy = 49.51%
+
+Accuracy = 48.85% -> 48.47%
+
+Task: m2mm, Iter:30887/46100; Accuracy = 49.53%
+
+Accuracy = 48.88% -> 48.43%
+
+Task: m2mm, Iter:31348/46100; Accuracy = 49.27%
+
+Accuracy = 48.85% -> 48.50%
+
+Task: m2mm, Iter:31809/46100; Accuracy = 49.35%
+
+Accuracy = 48.94% -> 48.52%
+
+Task: m2mm, Iter:32270/46100; Accuracy = 49.32%
+
+Accuracy = 48.69% -> 48.31%
+
+Task: m2mm, Iter:32731/46100; Accuracy = 49.16%
+
+Accuracy = 48.71% -> 48.35%
+
+Task: m2mm, Iter:33192/46100; Accuracy = 48.93%
+
+Accuracy = 48.54% -> 48.25%
+
+Task: m2mm, Iter:33653/46100; Accuracy = 49.01%
+
+Accuracy = 48.61% -> 48.24%
+
+Task: m2mm, Iter:34114/46100; Accuracy = 48.91%
+
+Accuracy = 48.59% -> 48.26%
+
+Task: m2mm, Iter:34575/46100; Accuracy = 48.87%
+
+Accuracy = 48.58% -> 48.23%
+
+Task: m2mm, Iter:35036/46100; Accuracy = 48.86%
+
+Accuracy = 48.59% -> 48.27%
+
+Task: m2mm, Iter:35497/46100; Accuracy = 48.63%
+
+Accuracy = 48.34% -> 47.99%
+
+Task: m2mm, Iter:35958/46100; Accuracy = 48.84%
+
+Accuracy = 48.45% -> 48.12%
+
+Task: m2mm, Iter:36419/46100; Accuracy = 48.57%
+
+Accuracy = 48.32% -> 48.02%
+
+Task: m2mm, Iter:36880/46100; Accuracy = 49.08%
+
+Accuracy = 48.46% -> 48.10%
+
+Task: m2mm, Iter:37341/46100; Accuracy = 49.07%
+
+Accuracy = 48.56% -> 48.20%
+
+Task: m2mm, Iter:37802/46100; Accuracy = 48.79%
+
+Accuracy = 48.48% -> 48.14%
+
+Task: m2mm, Iter:38263/46100; Accuracy = 48.86%
+
+Accuracy = 48.45% -> 48.18%
+
+Task: m2mm, Iter:38724/46100; Accuracy = 48.55%
+
+Accuracy = 48.32% -> 48.08%
+
+Task: m2mm, Iter:39185/46100; Accuracy = 48.85%
+
+Accuracy = 48.42% -> 48.12%
+
+Task: m2mm, Iter:39646/46100; Accuracy = 49.04%
+
+Accuracy = 48.44% -> 48.19%
+
+Task: m2mm, Iter:40107/46100; Accuracy = 48.96%
+
+Accuracy = 48.40% -> 48.14%
+
+Task: m2mm, Iter:40568/46100; Accuracy = 48.81%
+
+Accuracy = 48.43% -> 48.23%
+
+Task: m2mm, Iter:41029/46100; Accuracy = 49.02%
+
+Accuracy = 48.41% -> 48.14%
+
+Task: m2mm, Iter:41490/46100; Accuracy = 48.73%
+
+Accuracy = 48.28% -> 48.10%
+
+Task: m2mm, Iter:41951/46100; Accuracy = 48.46%
+
+Accuracy = 48.25% -> 47.92%
+
+Task: m2mm, Iter:42412/46100; Accuracy = 48.75%
+
+Accuracy = 48.27% -> 47.97%
+
+Task: m2mm, Iter:42873/46100; Accuracy = 48.96%
+
+Accuracy = 48.36% -> 48.11%
+
+Task: m2mm, Iter:43334/46100; Accuracy = 48.77%
+
+Accuracy = 48.27% -> 47.94%
+
+Task: m2mm, Iter:43795/46100; Accuracy = 48.62%
+
+Accuracy = 48.07% -> 47.86%
+
+Task: m2mm, Iter:44256/46100; Accuracy = 48.34%
+
+Accuracy = 48.16% -> 47.91%
+
+Task: m2mm, Iter:44717/46100; Accuracy = 48.77%
+
+Accuracy = 48.31% -> 48.03%
+
+Task: m2mm, Iter:45178/46100; Accuracy = 48.85%
+
+Accuracy = 48.28% -> 48.01%
+
+Task: m2mm, Iter:45639/46100; Accuracy = 48.58%
+
+Accuracy = 48.22% -> 48.00%
+
+Task: m2mm, Iter:46100/46100; Accuracy = 48.93%

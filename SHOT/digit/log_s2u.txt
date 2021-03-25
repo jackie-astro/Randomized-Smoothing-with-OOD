@@ -1,0 +1,431 @@
+ssh://cch@139.196.34.183:88/usr/local/bin/python3.7 -u /home/cch/share/xianyu/DANN/SHOT/digit/uda_digit_s2u.py
+Using downloaded and verified file: ./data/svhn/train_32x32.mat
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Task: s2u, Iter:5730/57300; Accuracy = 92.14%/ 90.00%
+
+Task: s2u, Iter:11460/57300; Accuracy = 97.66%/ 92.35%
+
+Task: s2u, Iter:17190/57300; Accuracy = 99.24%/ 92.37%
+
+Task: s2u, Iter:22920/57300; Accuracy = 99.34%/ 91.74%
+
+Task: s2u, Iter:28650/57300; Accuracy = 99.66%/ 91.69%
+
+Task: s2u, Iter:34380/57300; Accuracy = 99.87%/ 92.00%
+
+Task: s2u, Iter:40110/57300; Accuracy = 99.91%/ 91.72%
+
+Task: s2u, Iter:45840/57300; Accuracy = 99.94%/ 91.74%
+
+Task: s2u, Iter:51570/57300; Accuracy = 99.95%/ 91.79%
+
+Task: s2u, Iter:57300/57300; Accuracy = 99.96%/ 91.76%
+
+Using downloaded and verified file: ./data/svhn/train_32x32.mat
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Task: s2u, Accuracy = 70.97%
+
+Using downloaded and verified file: ./data/svhn/train_32x32.mat
+Using downloaded and verified file: ./data/svhn/test_32x32.mat
+Accuracy = 62.42% -> 67.18%
+
+Task: s2u, Iter:59/5900; Accuracy = 88.06%
+
+Accuracy = 88.17% -> 88.24%
+
+Task: s2u, Iter:118/5900; Accuracy = 91.67%
+
+Accuracy = 91.37% -> 90.91%
+
+Task: s2u, Iter:177/5900; Accuracy = 92.58%
+
+Accuracy = 93.00% -> 92.40%
+
+Task: s2u, Iter:236/5900; Accuracy = 93.17%
+
+Accuracy = 93.96% -> 93.30%
+
+Task: s2u, Iter:295/5900; Accuracy = 93.66%
+
+Accuracy = 94.18% -> 93.60%
+
+Task: s2u, Iter:354/5900; Accuracy = 93.76%
+
+Accuracy = 94.34% -> 93.90%
+
+Task: s2u, Iter:413/5900; Accuracy = 93.98%
+
+Accuracy = 94.38% -> 93.94%
+
+Task: s2u, Iter:472/5900; Accuracy = 94.19%
+
+Accuracy = 94.38% -> 94.02%
+
+Task: s2u, Iter:531/5900; Accuracy = 94.30%
+
+Accuracy = 94.51% -> 94.08%
+
+Task: s2u, Iter:590/5900; Accuracy = 94.52%
+
+Accuracy = 94.61% -> 94.04%
+
+Task: s2u, Iter:649/5900; Accuracy = 94.57%
+
+Accuracy = 94.51% -> 94.22%
+
+Task: s2u, Iter:708/5900; Accuracy = 94.46%
+
+Accuracy = 94.73% -> 94.26%
+
+Task: s2u, Iter:767/5900; Accuracy = 94.57%
+
+Accuracy = 94.42% -> 94.15%
+
+Task: s2u, Iter:826/5900; Accuracy = 94.84%
+
+Accuracy = 94.62% -> 94.35%
+
+Task: s2u, Iter:885/5900; Accuracy = 94.84%
+
+Accuracy = 94.41% -> 94.23%
+
+Task: s2u, Iter:944/5900; Accuracy = 94.68%
+
+Accuracy = 94.41% -> 94.26%
+
+Task: s2u, Iter:1003/5900; Accuracy = 94.62%
+
+Accuracy = 94.47% -> 94.21%
+
+Task: s2u, Iter:1062/5900; Accuracy = 94.68%
+
+Accuracy = 94.30% -> 94.18%
+
+Task: s2u, Iter:1121/5900; Accuracy = 94.89%
+
+Accuracy = 94.60% -> 94.30%
+
+Task: s2u, Iter:1180/5900; Accuracy = 95.11%
+
+Accuracy = 94.45% -> 94.29%
+
+Task: s2u, Iter:1239/5900; Accuracy = 95.16%
+
+Accuracy = 94.39% -> 94.29%
+
+Task: s2u, Iter:1298/5900; Accuracy = 95.11%
+
+Accuracy = 94.55% -> 94.29%
+
+Task: s2u, Iter:1357/5900; Accuracy = 95.16%
+
+Accuracy = 94.57% -> 94.30%
+
+Task: s2u, Iter:1416/5900; Accuracy = 94.89%
+
+Accuracy = 94.38% -> 94.23%
+
+Task: s2u, Iter:1475/5900; Accuracy = 94.84%
+
+Accuracy = 94.47% -> 94.34%
+
+Task: s2u, Iter:1534/5900; Accuracy = 95.00%
+
+Accuracy = 94.46% -> 94.34%
+
+Task: s2u, Iter:1593/5900; Accuracy = 95.05%
+
+Accuracy = 94.43% -> 94.30%
+
+Task: s2u, Iter:1652/5900; Accuracy = 95.22%
+
+Accuracy = 94.42% -> 94.26%
+
+Task: s2u, Iter:1711/5900; Accuracy = 95.00%
+
+Accuracy = 94.33% -> 94.23%
+
+Task: s2u, Iter:1770/5900; Accuracy = 94.89%
+
+Accuracy = 94.34% -> 94.25%
+
+Task: s2u, Iter:1829/5900; Accuracy = 95.05%
+
+Accuracy = 94.41% -> 94.29%
+
+Task: s2u, Iter:1888/5900; Accuracy = 95.00%
+
+Accuracy = 94.49% -> 94.31%
+
+Task: s2u, Iter:1947/5900; Accuracy = 95.11%
+
+Accuracy = 94.49% -> 94.34%
+
+Task: s2u, Iter:2006/5900; Accuracy = 94.95%
+
+Accuracy = 94.39% -> 94.34%
+
+Task: s2u, Iter:2065/5900; Accuracy = 94.73%
+
+Accuracy = 94.31% -> 94.29%
+
+Task: s2u, Iter:2124/5900; Accuracy = 95.27%
+
+Accuracy = 94.39% -> 94.30%
+
+Task: s2u, Iter:2183/5900; Accuracy = 95.05%
+
+Accuracy = 94.34% -> 94.23%
+
+Task: s2u, Iter:2242/5900; Accuracy = 95.16%
+
+Accuracy = 94.31% -> 94.25%
+
+Task: s2u, Iter:2301/5900; Accuracy = 94.89%
+
+Accuracy = 94.31% -> 94.30%
+
+Task: s2u, Iter:2360/5900; Accuracy = 94.95%
+
+Accuracy = 94.33% -> 94.29%
+
+Task: s2u, Iter:2419/5900; Accuracy = 95.22%
+
+Accuracy = 94.35% -> 94.33%
+
+Task: s2u, Iter:2478/5900; Accuracy = 95.32%
+
+Accuracy = 94.39% -> 94.33%
+
+Task: s2u, Iter:2537/5900; Accuracy = 95.22%
+
+Accuracy = 94.37% -> 94.31%
+
+Task: s2u, Iter:2596/5900; Accuracy = 95.00%
+
+Accuracy = 94.29% -> 94.26%
+
+Task: s2u, Iter:2655/5900; Accuracy = 94.95%
+
+Accuracy = 94.29% -> 94.27%
+
+Task: s2u, Iter:2714/5900; Accuracy = 94.73%
+
+Accuracy = 94.30% -> 94.27%
+
+Task: s2u, Iter:2773/5900; Accuracy = 94.73%
+
+Accuracy = 94.31% -> 94.29%
+
+Task: s2u, Iter:2832/5900; Accuracy = 94.62%
+
+Accuracy = 94.26% -> 94.25%
+
+Task: s2u, Iter:2891/5900; Accuracy = 94.95%
+
+Accuracy = 94.33% -> 94.31%
+
+Task: s2u, Iter:2950/5900; Accuracy = 94.95%
+
+Accuracy = 94.30% -> 94.29%
+
+Task: s2u, Iter:3009/5900; Accuracy = 94.78%
+
+Accuracy = 94.25% -> 94.23%
+
+Task: s2u, Iter:3068/5900; Accuracy = 95.27%
+
+Accuracy = 94.35% -> 94.30%
+
+Task: s2u, Iter:3127/5900; Accuracy = 94.73%
+
+Accuracy = 94.26% -> 94.21%
+
+Task: s2u, Iter:3186/5900; Accuracy = 94.95%
+
+Accuracy = 94.21% -> 94.21%
+
+Task: s2u, Iter:3245/5900; Accuracy = 95.05%
+
+Accuracy = 94.26% -> 94.23%
+
+Task: s2u, Iter:3304/5900; Accuracy = 94.95%
+
+Accuracy = 94.30% -> 94.25%
+
+Task: s2u, Iter:3363/5900; Accuracy = 94.73%
+
+Accuracy = 94.27% -> 94.25%
+
+Task: s2u, Iter:3422/5900; Accuracy = 94.62%
+
+Accuracy = 94.26% -> 94.23%
+
+Task: s2u, Iter:3481/5900; Accuracy = 95.11%
+
+Accuracy = 94.27% -> 94.23%
+
+Task: s2u, Iter:3540/5900; Accuracy = 95.00%
+
+Accuracy = 94.26% -> 94.25%
+
+Task: s2u, Iter:3599/5900; Accuracy = 94.95%
+
+Accuracy = 94.22% -> 94.25%
+
+Task: s2u, Iter:3658/5900; Accuracy = 94.46%
+
+Accuracy = 94.23% -> 94.21%
+
+Task: s2u, Iter:3717/5900; Accuracy = 94.46%
+
+Accuracy = 94.22% -> 94.17%
+
+Task: s2u, Iter:3776/5900; Accuracy = 94.62%
+
+Accuracy = 94.25% -> 94.19%
+
+Task: s2u, Iter:3835/5900; Accuracy = 94.68%
+
+Accuracy = 94.21% -> 94.19%
+
+Task: s2u, Iter:3894/5900; Accuracy = 94.52%
+
+Accuracy = 94.22% -> 94.21%
+
+Task: s2u, Iter:3953/5900; Accuracy = 95.00%
+
+Accuracy = 94.22% -> 94.18%
+
+Task: s2u, Iter:4012/5900; Accuracy = 94.73%
+
+Accuracy = 94.21% -> 94.19%
+
+Task: s2u, Iter:4071/5900; Accuracy = 94.41%
+
+Accuracy = 94.22% -> 94.21%
+
+Task: s2u, Iter:4130/5900; Accuracy = 95.22%
+
+Accuracy = 94.21% -> 94.19%
+
+Task: s2u, Iter:4189/5900; Accuracy = 94.95%
+
+Accuracy = 94.21% -> 94.15%
+
+Task: s2u, Iter:4248/5900; Accuracy = 94.84%
+
+Accuracy = 94.18% -> 94.15%
+
+Task: s2u, Iter:4307/5900; Accuracy = 94.95%
+
+Accuracy = 94.22% -> 94.17%
+
+Task: s2u, Iter:4366/5900; Accuracy = 94.84%
+
+Accuracy = 94.15% -> 94.14%
+
+Task: s2u, Iter:4425/5900; Accuracy = 94.95%
+
+Accuracy = 94.17% -> 94.17%
+
+Task: s2u, Iter:4484/5900; Accuracy = 94.73%
+
+Accuracy = 94.18% -> 94.15%
+
+Task: s2u, Iter:4543/5900; Accuracy = 94.89%
+
+Accuracy = 94.18% -> 94.15%
+
+Task: s2u, Iter:4602/5900; Accuracy = 95.00%
+
+Accuracy = 94.15% -> 94.14%
+
+Task: s2u, Iter:4661/5900; Accuracy = 94.95%
+
+Accuracy = 94.17% -> 94.14%
+
+Task: s2u, Iter:4720/5900; Accuracy = 94.73%
+
+Accuracy = 94.15% -> 94.15%
+
+Task: s2u, Iter:4779/5900; Accuracy = 94.68%
+
+Accuracy = 94.14% -> 94.11%
+
+Task: s2u, Iter:4838/5900; Accuracy = 94.73%
+
+Accuracy = 94.12% -> 94.10%
+
+Task: s2u, Iter:4897/5900; Accuracy = 94.84%
+
+Accuracy = 94.12% -> 94.08%
+
+Task: s2u, Iter:4956/5900; Accuracy = 94.73%
+
+Accuracy = 94.15% -> 94.12%
+
+Task: s2u, Iter:5015/5900; Accuracy = 94.89%
+
+Accuracy = 94.14% -> 94.12%
+
+Task: s2u, Iter:5074/5900; Accuracy = 94.52%
+
+Accuracy = 94.12% -> 94.10%
+
+Task: s2u, Iter:5133/5900; Accuracy = 94.68%
+
+Accuracy = 94.12% -> 94.08%
+
+Task: s2u, Iter:5192/5900; Accuracy = 94.62%
+
+Accuracy = 94.12% -> 94.11%
+
+Task: s2u, Iter:5251/5900; Accuracy = 94.52%
+
+Accuracy = 94.12% -> 94.12%
+
+Task: s2u, Iter:5310/5900; Accuracy = 94.73%
+
+Accuracy = 94.14% -> 94.11%
+
+Task: s2u, Iter:5369/5900; Accuracy = 94.57%
+
+Accuracy = 94.12% -> 94.11%
+
+Task: s2u, Iter:5428/5900; Accuracy = 95.00%
+
+Accuracy = 94.14% -> 94.14%
+
+Task: s2u, Iter:5487/5900; Accuracy = 94.35%
+
+Accuracy = 94.10% -> 94.08%
+
+Task: s2u, Iter:5546/5900; Accuracy = 94.30%
+
+Accuracy = 94.10% -> 94.10%
+
+Task: s2u, Iter:5605/5900; Accuracy = 94.57%
+
+Accuracy = 94.11% -> 94.10%
+
+Task: s2u, Iter:5664/5900; Accuracy = 94.68%
+
+Accuracy = 94.11% -> 94.08%
+
+Task: s2u, Iter:5723/5900; Accuracy = 94.30%
+
+Accuracy = 94.08% -> 94.07%
+
+Task: s2u, Iter:5782/5900; Accuracy = 93.92%
+
+Accuracy = 94.11% -> 94.10%
+
+Task: s2u, Iter:5841/5900; Accuracy = 94.09%
+
+Accuracy = 94.11% -> 94.11%
+
+Task: s2u, Iter:5900/5900; Accuracy = 94.25%
+
+
+Process finished with exit code 0

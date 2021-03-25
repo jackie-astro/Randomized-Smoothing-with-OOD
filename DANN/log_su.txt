@@ -1,0 +1,408 @@
+model_su
+Using downloaded and verified file: ./data/svhn/train_32x32.mat
+ epoch: 0, [iter: 59 / all 59], loss: 0.811243
+
+Accuracy of the usps dataset: 0.936022
+
+ epoch: 1, [iter: 59 / all 59], loss: 0.363269
+
+Accuracy of the usps dataset: 0.972043
+
+ epoch: 2, [iter: 59 / all 59], loss: 0.620415
+
+Accuracy of the usps dataset: 0.976344
+
+ epoch: 3, [iter: 59 / all 59], loss: 0.076800
+
+Accuracy of the usps dataset: 0.979570
+
+ epoch: 4, [iter: 59 / all 59], loss: 0.071511
+
+Accuracy of the usps dataset: 0.980645
+
+ epoch: 5, [iter: 59 / all 59], loss: 0.085790
+
+Accuracy of the usps dataset: 0.982796
+
+ epoch: 6, [iter: 59 / all 59], loss: 0.010034
+
+Accuracy of the usps dataset: 0.985484
+
+ epoch: 7, [iter: 59 / all 59], loss: 0.034021
+
+Accuracy of the usps dataset: 0.981720
+
+ epoch: 8, [iter: 59 / all 59], loss: 0.314337
+
+Accuracy of the usps dataset: 0.986022
+
+ epoch: 9, [iter: 59 / all 59], loss: 0.580458
+
+Accuracy of the usps dataset: 0.976344
+
+ epoch: 10, [iter: 59 / all 59], loss: 0.076250
+
+Accuracy of the usps dataset: 0.979032
+
+ epoch: 11, [iter: 59 / all 59], loss: 0.032168
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 12, [iter: 59 / all 59], loss: 0.090533
+
+Accuracy of the usps dataset: 0.984946
+
+ epoch: 13, [iter: 59 / all 59], loss: 0.016236
+
+Accuracy of the usps dataset: 0.982258
+
+ epoch: 14, [iter: 59 / all 59], loss: 0.216369
+
+Accuracy of the usps dataset: 0.987097
+
+ epoch: 15, [iter: 59 / all 59], loss: 0.027173
+
+Accuracy of the usps dataset: 0.990860
+
+ epoch: 16, [iter: 59 / all 59], loss: 0.038883
+
+Accuracy of the usps dataset: 0.984409
+
+ epoch: 17, [iter: 59 / all 59], loss: 0.679914
+
+Accuracy of the usps dataset: 0.986559
+
+ epoch: 18, [iter: 59 / all 59], loss: 0.352081
+
+Accuracy of the usps dataset: 0.986559
+
+ epoch: 19, [iter: 59 / all 59], loss: 0.249070
+
+Accuracy of the usps dataset: 0.987634
+
+ epoch: 20, [iter: 59 / all 59], loss: 0.074210
+
+Accuracy of the usps dataset: 0.987097
+
+ epoch: 21, [iter: 59 / all 59], loss: 0.040663
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 22, [iter: 59 / all 59], loss: 0.239062
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 23, [iter: 59 / all 59], loss: 0.007175
+
+Accuracy of the usps dataset: 0.987634
+
+ epoch: 24, [iter: 59 / all 59], loss: 0.201440
+
+Accuracy of the usps dataset: 0.989785
+
+ epoch: 25, [iter: 59 / all 59], loss: 0.081158
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 26, [iter: 59 / all 59], loss: 0.042527
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 27, [iter: 59 / all 59], loss: 0.124582
+
+Accuracy of the usps dataset: 0.986559
+
+ epoch: 28, [iter: 59 / all 59], loss: 0.075770
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 29, [iter: 59 / all 59], loss: 0.145073
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 30, [iter: 59 / all 59], loss: 0.087908
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 31, [iter: 59 / all 59], loss: 0.041802
+
+Accuracy of the usps dataset: 0.986559
+
+ epoch: 32, [iter: 59 / all 59], loss: 0.623005
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 33, [iter: 59 / all 59], loss: 0.164429
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 34, [iter: 59 / all 59], loss: 0.039710
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 35, [iter: 59 / all 59], loss: 0.250527
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 36, [iter: 59 / all 59], loss: 0.060921
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 37, [iter: 59 / all 59], loss: 0.127492
+
+Accuracy of the usps dataset: 0.991398
+
+ epoch: 38, [iter: 59 / all 59], loss: 0.005604
+
+Accuracy of the usps dataset: 0.987097
+
+ epoch: 39, [iter: 59 / all 59], loss: 0.013182
+
+Accuracy of the usps dataset: 0.987097
+
+ epoch: 40, [iter: 59 / all 59], loss: 0.007321
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 41, [iter: 59 / all 59], loss: 0.190369
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 42, [iter: 59 / all 59], loss: 0.065859
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 43, [iter: 59 / all 59], loss: 0.665980
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 44, [iter: 59 / all 59], loss: 0.669107
+
+Accuracy of the usps dataset: 0.987097
+
+ epoch: 45, [iter: 59 / all 59], loss: 0.016833
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 46, [iter: 59 / all 59], loss: 0.571330
+
+Accuracy of the usps dataset: 0.990860
+
+ epoch: 47, [iter: 59 / all 59], loss: 0.131245
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 48, [iter: 59 / all 59], loss: 0.198208
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 49, [iter: 59 / all 59], loss: 0.029678
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 50, [iter: 59 / all 59], loss: 0.433764
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 51, [iter: 59 / all 59], loss: 0.053859
+
+Accuracy of the usps dataset: 0.992473
+
+ epoch: 52, [iter: 59 / all 59], loss: 0.446391
+
+Accuracy of the usps dataset: 0.990860
+
+ epoch: 53, [iter: 59 / all 59], loss: 0.061177
+
+Accuracy of the usps dataset: 0.989785
+
+ epoch: 54, [iter: 59 / all 59], loss: 0.015453
+
+Accuracy of the usps dataset: 0.989785
+
+ epoch: 55, [iter: 59 / all 59], loss: 0.379502
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 56, [iter: 59 / all 59], loss: 0.084931
+
+Accuracy of the usps dataset: 0.991935
+
+ epoch: 57, [iter: 59 / all 59], loss: 0.199491
+
+Accuracy of the usps dataset: 0.992473
+
+ epoch: 58, [iter: 59 / all 59], loss: 0.197753
+
+Accuracy of the usps dataset: 0.991398
+
+ epoch: 59, [iter: 59 / all 59], loss: 0.037063
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 60, [iter: 59 / all 59], loss: 0.560096
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 61, [iter: 59 / all 59], loss: 0.002784
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 62, [iter: 59 / all 59], loss: 0.027120
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 63, [iter: 59 / all 59], loss: 0.265042
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 64, [iter: 59 / all 59], loss: 0.051912
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 65, [iter: 59 / all 59], loss: 0.001414
+
+Accuracy of the usps dataset: 0.989785
+
+ epoch: 66, [iter: 59 / all 59], loss: 0.019832
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 67, [iter: 59 / all 59], loss: 0.020125
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 68, [iter: 59 / all 59], loss: 0.083651
+
+Accuracy of the usps dataset: 0.990860
+
+ epoch: 69, [iter: 59 / all 59], loss: 0.073552
+
+Accuracy of the usps dataset: 0.990860
+
+ epoch: 70, [iter: 59 / all 59], loss: 0.443218
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 71, [iter: 59 / all 59], loss: 0.566835
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 72, [iter: 59 / all 59], loss: 0.015415
+
+Accuracy of the usps dataset: 0.989785
+
+ epoch: 73, [iter: 59 / all 59], loss: 0.000231
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 74, [iter: 59 / all 59], loss: 0.003827
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 75, [iter: 59 / all 59], loss: 0.015522
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 76, [iter: 59 / all 59], loss: 0.377501
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 77, [iter: 59 / all 59], loss: 0.057007
+
+Accuracy of the usps dataset: 0.989785
+
+ epoch: 78, [iter: 59 / all 59], loss: 0.003004
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 79, [iter: 59 / all 59], loss: 0.113195
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 80, [iter: 59 / all 59], loss: 0.013564
+
+Accuracy of the usps dataset: 0.989785
+
+ epoch: 81, [iter: 59 / all 59], loss: 0.314068
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 82, [iter: 59 / all 59], loss: 0.000894
+
+Accuracy of the usps dataset: 0.986559
+
+ epoch: 83, [iter: 59 / all 59], loss: 0.018219
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 84, [iter: 59 / all 59], loss: 0.001204
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 85, [iter: 59 / all 59], loss: 0.020436
+
+Accuracy of the usps dataset: 0.986559
+
+ epoch: 86, [iter: 59 / all 59], loss: 0.100230
+
+Accuracy of the usps dataset: 0.989785
+
+ epoch: 87, [iter: 59 / all 59], loss: 0.300486
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 88, [iter: 59 / all 59], loss: 0.004889
+
+Accuracy of the usps dataset: 0.989785
+
+ epoch: 89, [iter: 59 / all 59], loss: 0.732850
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 90, [iter: 59 / all 59], loss: 0.002535
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 91, [iter: 59 / all 59], loss: 0.271337
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 92, [iter: 59 / all 59], loss: 0.414494
+
+Accuracy of the usps dataset: 0.988172
+
+ epoch: 93, [iter: 59 / all 59], loss: 0.004108
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 94, [iter: 59 / all 59], loss: 0.016092
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 95, [iter: 59 / all 59], loss: 0.021679
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 96, [iter: 59 / all 59], loss: 0.001298
+
+Accuracy of the usps dataset: 0.990323
+
+ epoch: 97, [iter: 59 / all 59], loss: 0.231390
+
+Accuracy of the usps dataset: 0.988710
+
+ epoch: 98, [iter: 59 / all 59], loss: 0.004162
+
+Accuracy of the usps dataset: 0.989247
+
+ epoch: 99, [iter: 59 / all 59], loss: 0.012087
+
+Accuracy of the usps dataset: 0.990860
+
+============ Summary =============
+
+Accuracy of the mnist dataset: 0.992473
+Corresponding model was save in model_su/mnist_mnistm_model_epoch_best.pth
+
+Process finished with exit code 0

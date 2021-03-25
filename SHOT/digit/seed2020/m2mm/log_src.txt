@@ -1,0 +1,35 @@
+==========================================
+gpu_id:0
+s:0
+t:1
+max_epoch:20
+batch_size:64
+worker:4
+dset:m2mm
+lr:0.01
+seed:2020
+cls_par:0.3
+ent_par:1.0
+gent:True
+ent:True
+bottleneck:256
+layer:wn
+classifier:bn
+smooth:0.1
+output:
+issave:True
+class_num:10
+output_dir:seed2020/m2mm
+out_file:<_io.TextIOWrapper name='seed2020/m2mm/log_src.txt' mode='w' encoding='UTF-8'>
+
+Task: m2mm, Iter:1876/18760; Accuracy = 98.71%/ 98.75%
+Task: m2mm, Iter:3752/18760; Accuracy = 99.36%/ 99.25%
+Task: m2mm, Iter:5628/18760; Accuracy = 99.51%/ 99.34%
+Task: m2mm, Iter:7504/18760; Accuracy = 99.53%/ 99.26%
+Task: m2mm, Iter:9380/18760; Accuracy = 99.62%/ 99.34%
+Task: m2mm, Iter:11256/18760; Accuracy = 99.63%/ 99.39%
+Task: m2mm, Iter:13132/18760; Accuracy = 99.66%/ 99.41%
+Task: m2mm, Iter:15008/18760; Accuracy = 99.67%/ 99.35%
+Task: m2mm, Iter:16884/18760; Accuracy = 99.70%/ 99.42%
+Task: m2mm, Iter:18760/18760; Accuracy = 99.69%/ 99.42%
+Task: m2mm, Accuracy = 45.34%

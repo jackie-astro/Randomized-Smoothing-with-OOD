@@ -1,0 +1,25 @@
+==========================================
+gpu_id:0
+s:0
+t:1
+max_epoch:100
+batch_size:128
+worker:4
+dset:m2mm
+lr:0.001
+seed:2020
+cls_par:0.3
+ent_par:1.0
+gent:True
+ent:True
+bottleneck:256
+layer:wn
+classifier:bn
+smooth:0.1
+output:
+issave:True
+class_num:10
+output_dir:seed2020/m2mm
+savename:par_0.3
+out_file:<_io.TextIOWrapper name='seed2020/m2mm/log_tar_par_0.3.txt' mode='w' encoding='UTF-8'>
+
